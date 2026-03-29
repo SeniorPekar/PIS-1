@@ -8,5 +8,12 @@ namespace PIS_1
 {
     internal class NewClass
     {
+        private readonly int a;
+
+        private int prazna()
+        {
+            return 0;
+        }
     }
 }
+
