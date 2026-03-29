@@ -6,7 +6,7 @@ namespace Program
         class Program {
         static void Main(string[] args) {
             Console.WriteLine("Hello, World!");
-            Console.WriteLine("Nesto sta nije bilo");
+            Console.WriteLine("Nesto sta nije bilo");  //A Što ako je bilo?!
         }
     }
 }
